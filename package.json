@@ -1,0 +1,24 @@
+{
+  "name": "mongostd",
+  "version": "6.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adriano-tirloni/mongostd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adriano-tirloni/mongostd/issues"
+  },
+  "homepage": "https://github.com/adriano-tirloni/mongostd#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "mongodb": "^5.0.1"
+  }
+}
