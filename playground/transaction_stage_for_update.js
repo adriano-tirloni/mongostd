@@ -39,6 +39,7 @@ try {
   let doc_t2 = await collection.findOne({id: 'transaction_stage_for_update'}, { session: sessions[0]})
   console.log('doc_t2', doc_t2)
 
+  
 
 } catch (error) {
   console.log(error)
